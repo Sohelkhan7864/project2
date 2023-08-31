@@ -2,4 +2,4 @@
 
 this project was creted from local system. 
 
-created by sohel khan.
+this is made by sohel khan.
